@@ -1,7 +1,7 @@
 name             'cnos'
 maintainer       'Lenovo'
 maintainer_email 'cbhagavathip@lenovo.com'
-license          'Apache v2.0'
+license          'BSD-3-Clause'
 description      'Implements an recipes for managing network resources on Lenovo switches'
 version          '1.0'
 
