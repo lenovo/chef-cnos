@@ -229,4 +229,4 @@ Test tools such as Test kitchen or ChefSpec can also be used to run test recipes
 * Lenovo DCG Networking, Lenovo
 
 ## License
-Apache 2.0, See LICENSE file
+See LICENSE file
